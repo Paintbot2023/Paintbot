@@ -3,11 +3,11 @@ import time
 import logging
 
 # Reddit API credentials (replace these with your actual credentials)
-reddit_client_id = '6J1-Q5HSqsZVcU5qNuKjqA'
-reddit_client_secret = 'GWol_AJN7x0XbPbKkHmH-66kF1VzEg'
-reddit_username = 'This-Picture2293'
-reddit_password = 'vladimer1917'
-user_agent = '<console:paintbot:1.0>'
+reddit_client_id = ''
+reddit_client_secret = ''
+reddit_username = ''
+reddit_password = ''
+user_agent = ''
 
 # Subreddit to monitor
 target_subreddit = 'place'  # r/place subreddit
